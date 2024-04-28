@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
     write_version_py()
     setup(
-        name='basicsr',
+        name='klabs.codeformer.basicsr',
         version=get_version(),
         description='Open Source Image and Video Super-Resolution Toolbox',
         long_description=readme(),
